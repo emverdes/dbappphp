@@ -1,6 +1,6 @@
-DROP DATABASE intranet IF EXISTS;
-CREATE DATABASE intranet;
-USE intranet;
+DROP DATABASE cumples IF EXISTS;
+CREATE DATABASE cumples;
+USE cumples;
 
 CREATE TABLE cumpleanios (
   id INT AUTO_INCREMENT PRIMARY KEY,
