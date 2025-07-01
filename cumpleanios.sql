@@ -9,6 +9,6 @@ CREATE TABLE cumpleanios (
 );
 
 INSERT INTO cumpleanios (nombre, fecha) VALUES
-('Francisco Polido', '2005-01-14'),
-('Santiago Hoaguy', '2004-02-09'),
-('Micaela Conde', '1994-12-09');
+('Frodo Baggins', '2005-01-14'),
+('Aragorn', '2004-02-09'),
+('Arwen Undomiel', '1994-12-09');
